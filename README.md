@@ -17,20 +17,20 @@ Supported emotes:
 | Emote 	| Trigger        	|
 |-------	|----------------	|
 |![alt text](https://i.imgur.com/qNpPrOL.png)       	| Bedge          	|
-|![alt text]       	| Clueless       	|
-|![alt text]      	| Deadge         	|
-|![alt text]       	| Feelsstrongman 	|
-|![alt text]       	| Kappa          	|
-|![alt text]       	| Kekw           	|
-|![alt text]       	| Pausechamp     	|
-|![alt text]       	| Peepohappy     	|
-|![alt text]       	| Peeposad       	|
-|![alt text]       	| Pepega         	|
-|![alt text]       	| Pepelaugh      	|
-|![alt text]       	| Pog            	|
-|![alt text]       	| Poggers        	|
-|![alt text]       	| Sadge          	|
-|![alt text]       	| Trolldespair   	|
+|![alt text](https://i.imgur.com/uQUvwUf.png)       	| Clueless       	|
+|![alt text](https://i.imgur.com/yNHyPzD.png)      	  | Deadge         	|
+|![alt text](https://i.imgur.com/AAeazxT.png)       	| Feelsstrongman 	|
+|![alt text](https://i.imgur.com/Ifu6wUT.png)       	| Kappa          	|
+|![alt text](https://i.imgur.com/ZVShs4b.png)       	| Kekw           	|
+|![alt text](https://i.imgur.com/tLVFdiD.png)       	| Pausechamp     	|
+|![alt text](https://i.imgur.com/SfZMRpS.png)       	| Peepohappy     	|
+|![alt text](https://i.imgur.com/jvXNg4v.png)       	| Peeposad       	|
+|![alt text](https://i.imgur.com/T07GnhT.png)       	| Pepega         	|
+|![alt text](https://i.imgur.com/Pq2BPol.png)       	| Pepelaugh      	|
+|![alt text](https://i.imgur.com/dXeasZL.png)       	| Pog            	|
+|![alt text](https://i.imgur.com/aIO71Ja.png)       	| Poggers        	|
+|![alt text](https://i.imgur.com/1cSVUXq.png)       	| Sadge          	|
+|![alt text](https://i.imgur.com/spP3J8x.png)       	| Trolldespair   	|
 
 ## Author
 
