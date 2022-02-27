@@ -1,0 +1,2 @@
+# plugins-release
+ osrs plugins
