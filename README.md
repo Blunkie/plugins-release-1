@@ -11,6 +11,9 @@ These plugins and this repository are not affiliated with Jagex, OpenOSRS or Run
 4. Go back to the "Plugins" tab and click on the "Available" tab to install plugins from this repository by clicking on the blue cross. </br>
 ![alt text](https://i.imgur.com/uJJ43Ao.png)
 
+
+## Twitch Emotes Plugin
+
 ## Author
 
 **Jason Lao**
