@@ -16,21 +16,21 @@ These plugins and this repository are not affiliated with Jagex, OpenOSRS or Run
 Supported emotes: 
 | Emote 	| Trigger        	|
 |-------	|----------------	|
-|       	| Bedge          	|
-|       	| Clueless       	|
-|       	| Deadge         	|
-|       	| Feelsstrongman 	|
-|       	| Kappa          	|
-|       	| Kekw           	|
-|       	| Pausechamp     	|
-|       	| Peepohappy     	|
-|       	| Peeposad       	|
-|       	| Pepega         	|
-|       	| Pepelaugh      	|
-|       	| Pog            	|
-|       	| Poggers        	|
-|       	| Sadge          	|
-|       	| Trolldespair   	|
+|![alt text](https://i.imgur.com/qNpPrOL.png)       	| Bedge          	|
+|![alt text]       	| Clueless       	|
+|![alt text]      	| Deadge         	|
+|![alt text]       	| Feelsstrongman 	|
+|![alt text]       	| Kappa          	|
+|![alt text]       	| Kekw           	|
+|![alt text]       	| Pausechamp     	|
+|![alt text]       	| Peepohappy     	|
+|![alt text]       	| Peeposad       	|
+|![alt text]       	| Pepega         	|
+|![alt text]       	| Pepelaugh      	|
+|![alt text]       	| Pog            	|
+|![alt text]       	| Poggers        	|
+|![alt text]       	| Sadge          	|
+|![alt text]       	| Trolldespair   	|
 
 ## Author
 
