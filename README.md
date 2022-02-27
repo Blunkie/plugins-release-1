@@ -2,7 +2,7 @@
 Random plugins I made for OSRS.</br>
 These plugins and this repository are not affiliated with Jagex, OpenOSRS or Runelite.
 
-# How to add the repository to OpenOSRS
+# How to add the repository to OpenOSRS and install plugins
 1. Click the "External Plugin Manager" button on the sidebar of OpenOSRS.</br>
 2. Click the "Add new Github repository" Button.</br>
 ![alt text](https://i.imgur.com/eMHFrfx.png)
