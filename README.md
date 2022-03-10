@@ -17,13 +17,16 @@ Supported emotes:
 | Emote 	| Trigger        	|
 |-------	|----------------	|
 |![alt text](https://i.imgur.com/qNpPrOL.png)       	| Bedge          	|
+|![alt text](https://i.imgur.com/yRAUzza.png)                                        | Clap            |
 |![alt text](https://i.imgur.com/uQUvwUf.png)       	| Clueless       	|
 |![alt text](https://i.imgur.com/yNHyPzD.png)      	  | Deadge         	|
+|![alt text](https://i.imgur.com/E0aWaQx.png)                                        | Ez              |
 |![alt text](https://i.imgur.com/SOTLA59.png)         | Feelsgoodman    |
 |![alt text](https://i.imgur.com/BOwdTac.png)         | Feelsokayman    |
 |![alt text](https://i.imgur.com/AAeazxT.png)       	| Feelsstrongman 	|
 |![alt text](https://i.imgur.com/Ifu6wUT.png)       	| Kappa          	|
 |![alt text](https://i.imgur.com/ZVShs4b.png)       	| Kekw           	|
+|![alt text](https://i.imgur.com/r746ds6.png)                                        | Madge           |
 |![alt text](https://i.imgur.com/Cns4qBo.png)         | Monkas          |
 |![alt text](https://i.imgur.com/tLVFdiD.png)       	| Pausechamp     	|
 |![alt text](https://i.imgur.com/SfZMRpS.png)       	| Peepohappy     	|
@@ -35,6 +38,7 @@ Supported emotes:
 |![alt text](https://i.imgur.com/1cSVUXq.png)       	| Sadge          	|
 |![alt text](https://i.imgur.com/UYZDzRx.png)         | Tf              |
 |![alt text](https://i.imgur.com/spP3J8x.png)       	| Trolldespair   	|
+|![alt text](https://i.imgur.com/3rZNWts.png)                                          | Weirdchamp      |
 
 ## Author
 
