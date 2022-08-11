@@ -40,9 +40,3 @@ Supported emotes:
 |![alt text](https://i.imgur.com/spP3J8x.png)       	| Trolldespair   	|
 |![alt text](https://i.imgur.com/3rZNWts.png)                                          | Weirdchamp      |
 
-## Author
-
-**Jason Lao**
-
-- [Profile](https://github.com/Jlao17 "Jason Lao")
-- [Email](mailto:jasonlao1707@gmail.com)
